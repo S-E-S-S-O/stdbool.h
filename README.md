@@ -1,2 +1,2 @@
-# cstdlibs
-some c standard libraries but sesso
+
+# WE ARE SO SMART THAT WE REWRITED A WHOLE C STANDARD LIBRARY FROM SCRATCH.
